@@ -1,0 +1,3 @@
+One-dimensional arrays are linear data structures where elements are stored sequentially. Accessed using indices, they offer fast retrieval and modification. Ideal for lists, they facilitate efficient sorting and searching algorithms. Dynamic resizing may incur overhead.
+
+Multi-dimensional arrays organize data in multiple dimensions, like rows and columns. Commonly used for matrices and grids, they enable efficient storage and retrieval of structured data. Complex operations like matrix multiplication benefit from their structured layout. However, memory overhead increases with each dimension. Efficient manipulation requires careful indexing management.
